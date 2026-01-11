@@ -21,6 +21,27 @@
         { "id": 3, "variant": "small", "file": "home-small-3.png" },
         { "id": 4, "variant": "small", "file": "home-small-4.png" }
       ]
+    },
+    "certifications": {
+      "awsCertifiedCloudPractitioner": {
+        "basePath": "img/certifications/aws-certified-cloud-practitioner/",
+        "icon": {
+          "file": "icon/aws-ccp.png"
+        },
+        "documents": [
+          { "type": "pdf", "file": "document/aws-ccp.pdf" },
+          { "type": "image", "file": "document/aws-ccp.png" }
+        ]
+      },
+      "japaneseLanguageProficiencyTest": {
+        "basePath": "img/certifications/japanese-language-proficiency-test/",
+        "icon": {
+          "file": "icon/jlpt.png"
+        },
+        "documents": [
+          { "type": "image", "file": "document/jlpt.png" }
+        ]
+      }
     }
   }
 }
