@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "generatedAt": "2026-01-10",
+  "sets": {
+    "apps": {
+      "basePath": "img/apps/",
+      "items": [
+        { "id": 1, "file": "app-1.png" },
+        { "id": 2, "file": "app-2.png" },
+        { "id": 3, "file": "app-3.png" },
+        { "id": 4, "file": "app-4.png" }
+      ]
+    },
+    "homePhotos": {
+      "basePath": "img/home-photos/",
+      "items": [
+        { "id": 1, "variant": "large", "file": "home-large-1.png" },
+        { "id": 2, "variant": "large", "file": "home-large-2.png" },
+        { "id": 1, "variant": "small", "file": "home-small-1.png" },
+        { "id": 2, "variant": "small", "file": "home-small-2.png" },
+        { "id": 3, "variant": "small", "file": "home-small-3.png" },
+        { "id": 4, "variant": "small", "file": "home-small-4.png" }
+      ]
+    }
+  }
+}
